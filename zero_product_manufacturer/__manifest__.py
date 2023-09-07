@@ -8,7 +8,7 @@
     "email": "sales@erpzero.com",
     "sequence": 0,
     'license': 'OPL-1',
-    'live_test_url': 'https://www.youtube.com/playlist?list=PLXFpENL3b6WU9TzMdawrHJsUBqMDXkcbn',
+    'live_test_url': 'https://youtu.be/WoXDxlmPfig',
     'summary': 'Adds manufacturers and attributes on the product view',
     "description": """Adds manufacturers and attributes on the product view
     """,
@@ -19,7 +19,7 @@
         'views/view.xml',
 
     ],
-    "price": 35.00,
+    "price": 00.00,
     "currency": 'EUR',
     'installable': True,
     'auto_install': False,
