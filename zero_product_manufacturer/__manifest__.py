@@ -1,6 +1,6 @@
 {
     'name': 'Product Manufacturer Managment',
-    'version': '5.1.0',
+    'version': '6.1.0',
     'category': 'Purchases',
     "author": 'Zero Systems',
     "company": 'Zero for Information Systems',
