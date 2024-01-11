@@ -5,7 +5,7 @@
             <field name="model">product.manufacturer</field>
             <field name="arch" type="xml">
                 <form string="Product Manufacturer">
-                <widget name="web_ribbon" title="Archived" bg_color="bg-danger" attrs="{'invisible': [('active', '=', True)]}"/>
+                <widget name="web_ribbon" title="Archived" bg_color="bg-danger" invisible =" [('active', '=', True)]"/>
                 <field name="active" invisible="1"/>
                     <sheet> 
                         <div class="oe_button_box" name="button_box">
