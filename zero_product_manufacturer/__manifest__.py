@@ -25,6 +25,5 @@
     'auto_install': False,
     "application": True,
     'images': ['static/description/product_manufacturer.png'],
-    'pre_init_check_vers': 'pre_init_check_vers',
 }
 
