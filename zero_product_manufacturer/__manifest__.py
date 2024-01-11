@@ -1,6 +1,6 @@
 {
     'name': 'Product Manufacturer Managment',
-    'version': '6.1.0',
+    'version': '7.1.0',
     'category': 'Purchases',
     "author": 'Zero Systems',
     "company": 'Zero for Information Systems',
@@ -25,6 +25,5 @@
     'auto_install': False,
     "application": True,
     'images': ['static/description/product_manufacturer.png'],
-    'pre_init_check_vers': 'pre_init_check_vers',
 }
 
